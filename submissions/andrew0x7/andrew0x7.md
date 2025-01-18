@@ -2,10 +2,10 @@
 
 ### Personal information
 
-- github account: 
-- Email: 
-- Arweave Address: 
-- ETH Address: 
+- github account: Andrew0x7
+- Email: earntmax@gmail.com
+- Arweave Address: OJkD2fpDW08duM1xATiP2LMAnDHF7tyDHsWE7LV4c4I
+- ETH Address: 0xEBed44428958eD95FB1eE8F0C84F67FCF41Ab123
 - Please finish this [form](https://docs.google.com/forms/d/e/1FAIpQLSfWA5fIIcBgmRppm3jNz5vmf9Mai_QMVil-2pO4r7YKn_Zhtw/viewform?usp=sf_link) to join in the talent pool.
 
 ### Introduce Yourself
